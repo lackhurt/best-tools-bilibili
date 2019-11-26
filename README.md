@@ -1,5 +1,5 @@
 # best-tools-bilibili
-收集 &amp; 推荐优秀的B站（bilibili）工具
+收集 &amp; 推荐优秀的B站（bilibili）工具。欢迎 pull requests
 
 ## 1. 榜单类
 ### 1.1 官方视频榜单
